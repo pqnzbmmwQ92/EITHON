@@ -14,4 +14,4 @@ RUN python -m pip install --upgrade pip
 
 COPY . .
 
-CMD [ "python3", "main.py"]
+CMD [ "python3", "bot.py"]
