@@ -1,4 +1,4 @@
-pyrogram
+pyrogram==1.4.16
 tgcrypto
 py-tgcalls
 python-dotenv
@@ -16,3 +16,6 @@ future
 psutil
 wget
 tswift
+gitpython
+python-barcode
+dnspython
